@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:100px;"> LOGOS </h1>
+<h1 align="center" style="font-size:200px;"> LOGOS </h1>
 
 > This repository contains programming languages, databases, ides, text editors, cloud, and framework logos.
 
