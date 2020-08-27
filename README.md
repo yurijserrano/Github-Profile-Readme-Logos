@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:200px;"> LOGOS </h1>
+<p align="center"> <img src="https://raw.githubusercontent.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/master/Logos.png"/></p>
 
 > This repository contains programming languages, databases, ides, text editors, cloud, and framework logos.
 
