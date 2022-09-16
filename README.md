@@ -114,7 +114,7 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 | VS Code					 |         ✔️         |                 |
 
 
-
+<!-- Make changes to this component -->
 ## Frameworks
 
 > Here are listed all the frameworks logos.
@@ -122,10 +122,23 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 
 |                            | ✔️  Available      | ❌ Unavailable  |
 | -------------------------- | :----------------: | :-------------: |
-| Atom         	 			 |         ✔️         |                 |
-| Notepad++                  |         ✔️         |                 |
-| Sublime        		     |         ✔️         |                 |
-| VS Code					 |         ✔️         |                 |
+| Android         	 			 |         ✔️         |                 |
+| Angular                  |         ✔️         |                 |
+| Boostrap        		     |         ✔️         |                 |
+| Rails					 |         ✔️         |                 |
+| Codeigniter					 |         ✔️         |                 |
+| Jquery					 |         ✔️         |                 |
+| React					 |         ✔️         |                 |
+| Deno					 |         ✔️         |                 |
+| Laravel					 |         ✔️         |                 |
+| Redux					 |         ✔️         |                 |
+| Deno					 |         ✔️         |                 |
+| Flask					 |         ✔️         |                 |
+| Deno					 |         ✔️         |                 |
+| Materialize					 |         ✔️         |                 |
+| Spring					 |         ✔️         |                 |
+| Nodejs					 |         ✔️         |                 |
+| Vuejs					 |         ✔️         |                 |
 
 
 
