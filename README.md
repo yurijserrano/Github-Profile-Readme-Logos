@@ -148,6 +148,18 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 | Heroku					 |         ✔️         |                 |
 
 
+## Tools
+
+|                            | ✔️  Available      | ❌ Unavailable  |
+| -------------------------- | :----------------: | :-------------: |
+| Unity         	 			 |         ✔️         |                 |
+| Unreal-Engine                  |         ✔️         |                 |
+| Photoshop        		     |         ✔️         |                 |
+| After Effects					 |         ✔️         |                 |
+| Adobe-XD        		     |         ✔️         |                 |
+| Figma					 |         ✔️         |                 |
+
+
 ## Others
 
 > Here are listed some logos that do not fit the other categories.
