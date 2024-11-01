@@ -122,10 +122,8 @@ If you have a **logo** and would like to **share it**, please send a **pull requ
 
 |                            | ✔️  Available      | ❌ Unavailable  |
 | -------------------------- | :----------------: | :-------------: |
-| Atom         	 			 |         ✔️         |                 |
-| Notepad++                  |         ✔️         |                 |
-| Sublime        		     |         ✔️         |                 |
-| VS Code					 |         ✔️         |                 |
+| Next.js         	 			 |        ✔️         |                 |
+
 
 
 
